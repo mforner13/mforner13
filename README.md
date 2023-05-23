@@ -19,4 +19,4 @@ I am a self-taught software engineer with experience in service design and archi
 
 - 🔭 I’m currently working on building the [UK Export Academy]([url](https://github.com/uktrade/great-cms/tree/develop/export_academy)) on www.great.gov.uk 
 - 🌱 I’m currently learning more about AWS (see [my Amplify project]([url](https://github.com/mforner13/amplify-app)))
-- - 😄 Pronouns: She/her
+- 😄 Pronouns: She/her
