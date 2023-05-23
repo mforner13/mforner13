@@ -15,4 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a self-taught software engineer with experience in service design and architecture and a passion for community-building and mentoring.
+I am a self-taught software engineer with experience in service design and architecture and a passion for mentoring and solving interesting problems.
+
+- 🔭 I’m currently working on building the [UK Export Academy]([url](https://github.com/uktrade/great-cms/tree/develop/export_academy)) on www.great.gov.uk 
+- 🌱 I’m currently learning more about AWS (see [my Amplify project]([url](https://github.com/mforner13/amplify-app)))
+- - 😄 Pronouns: She/her
